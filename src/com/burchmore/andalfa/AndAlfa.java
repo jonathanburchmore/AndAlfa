@@ -1,3 +1,9 @@
+/*
+ * :vi ts=4 sts=4 sw=4
+ *
+ * Copyright (c) Jonathan Burchmore
+ */
+
 package com.burchmore.andalfa;
 
 import java.io.IOException;
